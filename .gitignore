@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/visualstudio/bstree/.vs/bstree/v15
+/visualstudio/bstree/bstree/Debug
+/visualstudio/bstree/Debug
